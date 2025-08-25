@@ -3,11 +3,11 @@ For the "mailstone-email-util" software
 
 Version: 1.0<br />
 Date: August 25, 2025<br />
-Copyright (c) 2025 Mailstone<br />
+Copyright (c) 2025 Mailstone SAS<br />
 
 1. PURPOSE
 
-This End User License Agreement ("Agreement") governs the use of the "mailstone-email-util" software (the "Software") provided by Mailstone, a French company headquartered at 485 RUE MARCELIN BERTHELOT, 13290 AIX-EN-PROVENCE, registered under number 852 381 052 with the RCS of AIX-EN-PROVENCE.
+This End User License Agreement ("Agreement") governs the use of the "mailstone-email-util" software (the "Software") provided by Mailstone SAS, a French company headquartered at 485 RUE MARCELIN BERTHELOT, 13290 AIX-EN-PROVENCE, registered under number 852 381 052 with the RCS of AIX-EN-PROVENCE.
 
 The Software is distributed in binary form only and is intended solely to generate a cryptographic hash from an `.eml` email file as part of the Mailstone service.
 
