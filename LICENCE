@@ -1,6 +1,64 @@
-Copyright (c) 2025 Mailstone
+END USER LICENSE AGREEMENT (EULA)
+For the "mailstone-email-util" software
 
-This software is proprietary and confidential.
-All rights reserved. Redistribution and use in binary forms, with or without modification, are permitted only with explicit written permission from Mailstone.
+Version: 1.0<br />
+Date: August 25, 2025<br />
+Copyright (c) 2025 Mailstone<br />
 
-Unauthorized copying, decompilation, or modification of this software is strictly prohibited.
+1. PURPOSE
+
+This End User License Agreement ("Agreement") governs the use of the "mailstone-email-util" software (the "Software") provided by Mailstone, a French company headquartered at 485 RUE MARCELIN BERTHELOT, 13290 AIX-EN-PROVENCE, registered under number 852 381 052 with the RCS of AIX-EN-PROVENCE.
+
+The Software is distributed in binary form only and is intended solely to generate a cryptographic hash from an `.eml` email file as part of the Mailstone service.
+
+2. INTELLECTUAL PROPERTY
+
+Mailstone retains all intellectual property rights to the Software, including but not limited to its binary code, documentation, trademarks, and associated materials.
+
+This Agreement does not grant the user any ownership rights in the Software.
+
+3. LICENSE TERMS
+
+Mailstone grants the user a limited, non-exclusive, non-transferable, non-sublicensable license to use the Software **solely for the purpose of generating a hash from `.eml` files**.
+
+Any other use is strictly prohibited, including but not limited to:
+
+-   using the Software outside the intended purpose;
+-   modifying, adapting, translating, or altering the Software;
+-   distributing, sublicensing, reselling, renting, or transferring the Software to any third party.
+
+4. RESTRICTIONS
+
+Unless expressly permitted by French law (Article L.122-6-1 of the Intellectual Property Code), the user must not:
+
+-   reverse-engineer, decompile, disassemble, or otherwise attempt to derive the source code;
+-   bypass any technical protection or security measures;
+-   extract or reuse any substantial part of the Software.
+
+5. DURATION
+
+This license is granted for the duration of the applicable intellectual property rights, subject to compliance with this Agreement.
+
+Mailstone may terminate this license automatically and without notice in case of any breach of the Agreement.
+
+6. DISCLAIMER OF WARRANTIES AND LIABILITY
+
+The Software is provided "as is" without warranty of any kind, express or implied, including but not limited to fitness for a particular purpose or absence of errors.
+
+To the extent permitted by law, Mailstone shall not be liable for any direct or indirect damages resulting from the use or inability to use the Software.
+
+This limitation shall not apply in cases of gross negligence, willful misconduct, or personal injury caused by Mailstone.
+
+7. PERSONAL DATA
+
+The Software does not collect or process personal data. Should this change, Mailstone will comply with the EU General Data Protection Regulation (GDPR) and inform the user accordingly.
+
+8. GOVERNING LAW AND JURISDICTION
+
+This Agreement shall be governed by and construed in accordance with the laws of France.
+
+In the event of a dispute, the parties shall attempt to resolve it amicably. If no agreement is reached, the courts of **Paris, France** shall have exclusive jurisdiction.
+
+9. ACCEPTANCE
+
+By using or installing the Software, the user agrees to be bound by the terms of this Agreement.
